@@ -1,0 +1,9 @@
+:root {
+  --page-width: 100vw;
+}
+
+nav {
+  width: var(--page-width);
+  background-color: #ff9827;
+  padding: 10px;
+}
